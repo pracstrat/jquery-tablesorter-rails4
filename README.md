@@ -1,6 +1,8 @@
 # Jquery::Tablesorter::Rails4
 
-TODO: Write a gem description
+This gem packages the jQuery Tablesorter assets (JavaScripts, stylesheets, and images) for the Rails 4.0 asset pipeline, so you never have to download a custom package through the web interface again.
+
+Also check out the [jquery-tablesorter-rails4](https://rubygems.org/gems/jquery-tablesorter-rails4) gem, which allows you to override theme variables with Sass.
 
 ## Installation
 
