@@ -7,20 +7,19 @@ Also check out the [jquery-tablesorter-rails4](https://rubygems.org/gems/jquery-
 ## Installation
 
 Add this line to your application's Gemfile:
-
 ```ruby
-  gem 'jquery-tablesorter-rails4'
+gem 'jquery-tablesorter-rails4'
 ```
 
 And then execute:
 ```ruby
-    $ bundle
+$ bundle
 ```
 
 Or install it yourself as:
 ```ruby
-    $ gem install jquery-tablesorter-rails4
-```ruby
+$ gem install jquery-tablesorter-rails4
+```
 
 ## Usage
 
