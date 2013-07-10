@@ -1,8 +1,8 @@
 //
-//= require jquery.tablesorter
-//= require jquery.metadata
-//= require jquery.widgets
-//= require jquery.tablesorter.widgets-filter-formatter
-//= require_tree ./widgets
-//= require_tree ./parsers
+//= require jquery_tablesorter/jquery.tablesorter
+//= require jquery_tablesorter/jquery.metadata
+//= require jquery_tablesorter/jquery.widgets
+//= require jquery_tablesorter/jquery.tablesorter.widgets-filter-formatter
+//= require_tree jquery_tablesorter/widgets
+//= require_tree jquery_tablesorter/parsers
 //
