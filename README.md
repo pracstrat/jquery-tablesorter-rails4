@@ -6,19 +6,45 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-tablesorter-rails4'
+```ruby
+  gem 'jquery-tablesorter-rails4'
+```
 
 And then execute:
-
+```ruby
     $ bundle
+```
 
 Or install it yourself as:
-
+```ruby
     $ gem install jquery-tablesorter-rails4
+```ruby
 
 ## Usage
 
-TODO: Write usage instructions here
+To require all jQuery UI modules, add the following to your application.js:
+```javascript
+//= require jquery.tablesorter.all
+```
+
+Also add the jQuery UI CSS to your application.css:
+
+```css
+/*
+ *= require jquery_tablesorter/theme.*
+ */
+```
+Supported themes:
+* black-ice
+* blue
+* bootstrap
+* dark
+* default
+* dropbox
+* green
+* grey
+* ice
+* jui
 
 ## Contributing
 
