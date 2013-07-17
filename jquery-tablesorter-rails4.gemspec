@@ -11,11 +11,11 @@ Gem::Specification.new do |spec|
   spec.description   = "JQuery tablesorter for Rails4.0"
   spec.summary       = "Init gem"
   spec.homepage      = "https://github.com/xinlangzi/jquery-tablesorter-rails4"
-  spec.license       = "MIT"
+  # spec.license       = "MIT"
 
-  spec.files         = `git ls-files`.split($/)
-  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
-  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
+  # spec.files         = `git ls-files`.split($/)
+  # spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
+  # spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
   spec.add_dependency "railties", "~> 4.0.0"
